@@ -1,0 +1,1674 @@
+1523315671943	geckodriver	INFO	geckodriver 0.20.1
+1523315671959	geckodriver	INFO	Listening on 127.0.0.1:57685
+1523315674960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.oNPxUXf31pt0"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1523315676046	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1523315680014	Marionette	INFO	Listening on port 57693
+1523315680762	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523315956881	geckodriver	INFO	geckodriver 0.20.1
+1523315956897	geckodriver	INFO	Listening on 127.0.0.1:57885
+1523315959902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.BAOdUNRxqkhi"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1523315960894	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1523315965030	Marionette	INFO	Listening on port 57894
+1523315965700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=wrnitl, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=wrnitl, line 1: unreachable code after return statement
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1cam99k01&promiseSupport=true, line 6910: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1523315977974;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003061;ord=1523315977974;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1523315977974;click=, line 22: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003062;ord=1523315977974;click=, line 22: unreachable code after return statement
+[Child 9380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523315991344	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 9000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523316007719	geckodriver	INFO	geckodriver 0.20.1
+1523316007719	geckodriver	INFO	Listening on 127.0.0.1:58101
+1523316010697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.X7dE4usySqYW"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1523316011666	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1523316015490	Marionette	INFO	Listening on port 58109
+1523316016302	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2720, Chrome_C[Parent 3104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8716, Chrome_Chi[Child 10876, Chrome_ChildThre*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523375689334	geckodriver	INFO	geckodriver 0.20.1
+1523375689349	geckodriver	INFO	Listening on 127.0.0.1:51752
+1523375692215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.BrAoJe0d2RY8"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1523375711777	Marionette	INFO	Listening on port 51762
+1523375712712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523375757567	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1523375971969	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1523375972025	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 9400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9400,[Parent 7528, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 5596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5596, C[Parent 7528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523376145951	geckodriver	INFO	geckodriver 0.20.1
+1523376145951	geckodriver	INFO	Listening on 127.0.0.1:59082
+1523376148953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.t7zVtzSQLFyr"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1523376159108	Marionette	INFO	Listening on port 59090
+1523376159516	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 900*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523377756184	geckodriver	INFO	geckodriver 0.20.1
+1523377756200	geckodriver	INFO	Listening on 127.0.0.1:59385
+1523377759256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.CDEHFyAgWRM0"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1523377764633	Marionette	INFO	Listening on port 59393
+1523377765291	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 33[Parent 11816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11196, Chrome_C[Parent 11816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11412*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523377858202	geckodriver	INFO	geckodriver 0.20.1
+1523377858217	geckodriver	INFO	Listening on 127.0.0.1:59484
+1523377861237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.zojBBQWbDCTw"
+1523377883003	geckodriver	INFO	geckodriver 0.20.1
+1523377883040	geckodriver	INFO	Listening on 127.0.0.1:59517
+1523377885990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.J9lLJqk88zQR"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1523377892359	Marionette	INFO	Listening on port 59529
+1523377892424	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1808, Chrome_Chil[Child 7036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 703[Child 6120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6120, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525525369806	geckodriver	INFO	geckodriver 0.20.1
+1525525369857	geckodriver	INFO	Listening on 127.0.0.1:50596
+1525525372735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.VCKgtEX5I9fD"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525525374590	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525525381008	Marionette	INFO	Listening on port 50607
+1525525381530	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr[Child 11520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346c
+/chrome/comm[Child 11520,on/ipc_channel_win.cc, line 346
+[Child 1660, Chrome_ChildThread][Child 3696, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525525492128	geckodriver	INFO	geckodriver 0.20.1
+1525525492143	geckodriver	INFO	Listening on 127.0.0.1:50648
+1525525495159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.zxXezqUjy8no"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525525496260	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525525500068	Marionette	INFO	Listening on port 50657
+1525525500732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525525504118	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279 < GeckoDriver.prototype.quit()@driver.js:3270 < despatch()@server.js:557 < execute()@server.js:531 < onPacket/<()@server.js:506 < onPacket()@server.js:505 < _onJSONObjectReady/<()@transport.js:500
+[Child 12484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12484, Chrome_Chi[Child 13048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13048, Chrome_ChildThread[Child 884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 884, Chrome_Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525525715023	geckodriver	INFO	geckodriver 0.20.1
+1525525715023	geckodriver	INFO	Listening on 127.0.0.1:50716
+1525525718039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.ZDa5Y6xAYOe4"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525525719292	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525525723266	Marionette	INFO	Listening on port 50724
+1525525723422	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8760, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525525903961	geckodriver	INFO	geckodriver 0.20.1
+1525525903961	geckodriver	INFO	Listening on 127.0.0.1:50783
+1525525906999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.JSM85Izb0WU7"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525525908026	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525525911970	Marionette	INFO	Listening on port 50791
+1525525912724	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12908, Chrome_Ch[Child 8508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8508, Chrome_ChildThr[Parent 5972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5736, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525529406987	geckodriver	INFO	geckodriver 0.20.1
+1525529407003	geckodriver	INFO	Listening on 127.0.0.1:51185
+1525529409887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.NkCWQyfxemtd"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525529411040	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525529415064	Marionette	INFO	Listening on port 51193
+1525529415228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Child 13056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 2232, Chrome_Ch[Parent 13152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2824, Chrome_ChildThread] WARNING: pipe error:*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525529705071	geckodriver	INFO	geckodriver 0.20.1
+1525529705087	geckodriver	INFO	Listening on 127.0.0.1:51309
+1525529708078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.22enVn8PeGF8"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525529709322	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525529713202	Marionette	INFO	Listening on port 51317
+1525529714056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Parent 5856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 900, Chrome_[Parent 5856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9284, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525529832789	geckodriver	INFO	geckodriver 0.20.1
+1525529832805	geckodriver	INFO	Listening on 127.0.0.1:51433
+1525529835805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.EsLpKVHFoB6c"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525529836698	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525529841448	Marionette	INFO	Listening on port 51441
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525529842228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Child 2232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13048, Chrome_ChildThread] WARNING: pipe error: 1[Parent 10548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4944, Chrome_ChildThread] WARNING: pipe error: 109*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525529940240	geckodriver	INFO	geckodriver 0.20.1
+1525529940256	geckodriver	INFO	Listening on 127.0.0.1:51540
+1525529943319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.jj3czKzq3Wqg"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525529944248	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525529947530	Marionette	INFO	Listening on port 51549
+1525529948628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5213: Error: WebGL warning: bindBuffer: Object argument cannot have been marked for deletion.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com/maps?f=q&source=embed&hl=es-419&geocode&q=buenos+aires&sll=37.0625,-95.677068&sspn=38.638819,80.859375&t=h&ie=UTF8&hq&hnear=Buenos+Aires,+Argentina&z=11&ll=-34.603723,-58.381593, line 5252: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 11596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12376, Chrome_Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525811633625	geckodriver	INFO	geckodriver 0.20.1
+1525811633649	geckodriver	INFO	Listening on 127.0.0.1:56589
+1525811636443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.PIwrdR2LvyZI"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525811638270	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525811645092	Marionette	INFO	Listening on port 56597
+1525811646370	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2772, Chrome_ChildThread] WARNING: pipe error: 10[Parent 6724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9320, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525811741916	geckodriver	INFO	geckodriver 0.20.1
+1525811741932	geckodriver	INFO	Listening on 127.0.0.1:56657
+1525811744940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.7L6grqUd7dgo"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525811745918	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525811750210	Marionette	INFO	Listening on port 56666
+1525811750810	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11148, Chrome_ChildThread] WARNING: pipe error: 109: file z[Child 8916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8916, Chrome[Child 1348, Chrome_Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525811775646	geckodriver	INFO	geckodriver 0.20.1
+1525811775663	geckodriver	INFO	Listening on 127.0.0.1:56730
+1525811778665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.dYeZktcxm1dS"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525811781648	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525811789240	Marionette	INFO	Listening on port 56740
+1525811791236	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8296, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525812773043	geckodriver	INFO	geckodriver 0.20.1
+1525812773054	geckodriver	INFO	Listening on 127.0.0.1:52591
+1525812776035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.zDUx9Hl41xFd"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525812777106	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525812782062	Marionette	INFO	Listening on port 52599
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525812782868	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11572, Ch[Parent 9112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10472, Chrome[Parent 9112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525812906950	geckodriver	INFO	geckodriver 0.20.1
+1525812906966	geckodriver	INFO	Listening on 127.0.0.1:52660
+1525812909899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.PWeT48cLdVhy"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525812911012	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1525812914912	Marionette	INFO	Listening on port 52668
+1525812915566	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 6872, Chrome_Cd 8748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8748, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Parent 10168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526298195314	geckodriver	INFO	geckodriver 0.20.1
+1526298195333	geckodriver	INFO	Listening on 127.0.0.1:51427
+1526298198374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.OUR3auxzg9Pw"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526298200186	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526298206466	Marionette	INFO	Listening on port 51437
+1526298207278	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 624, Chrome_ChildThread] WARNING: pipe er[Child 10928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10928, Chrome_ChildThread] WARNING: pipe error: 109: file z:*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526298295604	geckodriver	INFO	geckodriver 0.20.1
+1526298295604	geckodriver	INFO	Listening on 127.0.0.1:51502
+1526298298685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.lsfw096ce0Uh"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526298299632	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526298303152	Marionette	INFO	Listening on port 51510
+1526298303978	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buildIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526299453215	geckodriver	INFO	geckodriver 0.20.1
+1526299453215	geckodriver	INFO	Listening on 127.0.0.1:51703
+1526299456195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.9zmnrpMYFfGY"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526299457640	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526299461816	Marionette	INFO	Listening on port 51711
+1526299462376	Marionette	WARN	TLS certificate errors will be ignored for this session
+[ChilIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 11596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9904, Chrome[Parent 11596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526313705468	geckodriver	INFO	geckodriver 0.20.1
+1526313705516	geckodriver	INFO	Listening on 127.0.0.1:53761
+1526313708369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.SrGbXBqc381a"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526313709942	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526313715630	Marionette	INFO	Listening on port 53769
+1526313715868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526313796772	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1526313808842	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 9224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9320, Chrome_ChildThread] WARNING: pipe er[Parent 9224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6828, Chrome_ChildThre[Child 5488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526313957269	geckodriver	INFO	geckodriver 0.20.1
+1526313957285	geckodriver	INFO	Listening on 127.0.0.1:53858
+1526313960326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.TLJxeEpahbjI"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526313961214	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526313964826	Marionette	INFO	Listening on port 53867
+1526313965636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526314004334	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Parent 9924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526314080642	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 12680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu[Child 1836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1836, Chrome_ChildThread] WARNING: pipe error: 109: file 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526314317424	geckodriver	INFO	geckodriver 0.20.1
+1526314317440	geckodriver	INFO	Listening on 127.0.0.1:54023
+1526314320507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.0N08bbYQsBXO"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526314321410	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526314325538	Marionette	INFO	Listening on port 54031
+1526314325948	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 376, Chrome_ChildThread] WARNING: pipe error: 109:1526314378994	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[[Child 6760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6760, Chrome_ChildThread] WARNING: pipe error: 109*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526316990329	geckodriver	INFO	geckodriver 0.20.1
+1526316990392	geckodriver	INFO	Listening on 127.0.0.1:54970
+1526316993247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.MBdmnSUUTvKL"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526316994374	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526316998896	Marionette	INFO	Listening on port 54978
+1526316999480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[Parent 2444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526317018904	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 2444, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1526317018920	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1526317018922	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 2444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9956, Chrome_ChildThread] WA[Child 6688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6688, *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526337712330	geckodriver	INFO	geckodriver 0.20.1
+1526337712332	geckodriver	INFO	Listening on 127.0.0.1:55331
+1526337715333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.pvTK7D5mTyDi"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526337716324	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526337720568	Marionette	INFO	Listening on port 55339
+1526337720736	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8656, Chrome_ChildThread] WARNING: pipe error:[Child 7616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7616, Chrome_ChildThread] WARNING: pipe error: 109[Child 3468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3468, Chrome_ChildThread] WARNING: pipe error: 109: fi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526337748440	geckodriver	INFO	geckodriver 0.20.1
+1526337748440	geckodriver	INFO	Listening on 127.0.0.1:55383
+1526337751500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.rNrdcR8xe2y7"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526337752386	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526337756110	Marionette	INFO	Listening on port 55391
+1526337756784	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3840, Chrome_ChildThread] WARNING: pipe er[Parent 5552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1360, Chrome_ChildThread] WARNING: pipe error: 10*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526337900262	geckodriver	INFO	geckodriver 0.20.1
+1526337900262	geckodriver	INFO	Listening on 127.0.0.1:55436
+1526337903294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.HXTvd1ce6q6R"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526337904228	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526337907978	Marionette	INFO	Listening on port 55444
+1526337908614	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11900, Chrome_ChildT[Child 13164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium[Parent 992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2632, Chrome_ChildThread] WARNING: pipe error: 109: file*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526337976588	geckodriver	INFO	geckodriver 0.20.1
+1526337976611	geckodriver	INFO	Listening on 127.0.0.1:55481
+1526337979623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.JLGY2DJQ2eys"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526337980550	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526337984524	Marionette	INFO	Listening on port 55489
+1526337985040	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5496, Chrome_ChildTh[rChild 7708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8872, Chrome_ChildThread] WARNING: pipe error: 109: file*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526338052215	geckodriver	INFO	geckodriver 0.20.1
+1526338052231	geckodriver	INFO	Listening on 127.0.0.1:55525
+1526338055232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.g753ktzu9kID"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338056182	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338059604	Marionette	INFO	Listening on port 55533
+1526338060560	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13192, Chrome_ChildThread] WARNING: pipe error: 109: fil[Child 12060, Chrome_ChildThread] WARNING: pipe *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526338285836	geckodriver	INFO	geckodriver 0.20.1
+1526338285836	geckodriver	INFO	Listening on 127.0.0.1:55600
+1526338288874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.p2cskA2v3Rbm"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338290034	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338293898	Marionette	INFO	Listening on port 55608
+1526338294392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[Parent 4256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11788, Chrome_ChildThread] WARNING: pipe error: 109[Child 9392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu[Child 10076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10076, Chrome_ChildThread] WARNING: pipe error: 109: *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526338309501	geckodriver	INFO	geckodriver 0.20.1
+1526338309523	geckodriver	INFO	Listening on 127.0.0.1:55663
+1526338312555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.nUC1SvaFG5eT"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338313488	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338317246	Marionette	INFO	Listening on port 55671
+1526338317886	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13232, Chrome_ChildThread] WARNING: pipe error: 109: file [Chil[Child 12928, Chrome_ChildThread*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526338379139	geckodriver	INFO	geckodriver 0.20.1
+1526338379160	geckodriver	INFO	Listening on 127.0.0.1:55710
+1526338382193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.Qcnj9fMRSoHw"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338383126	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338387168	Marionette	INFO	Listening on port 55718
+1526338387670	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8236, Chrome_ChildThread] WARNING: pipe error: 109: fil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526338548265	geckodriver	INFO	geckodriver 0.20.1
+1526338548281	geckodriver	INFO	Listening on 127.0.0.1:55762
+1526338551340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.AomBymdHYvcR"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338552300	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338556370	Marionette	INFO	Listening on port 55770
+1526338557164	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 992, Chrome_ChildThread] WARNING: pipe error:[Child 5884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5884, Chrome_ChildThread] WARNING: pipe error: 1*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526338591855	geckodriver	INFO	geckodriver 0.20.1
+1526338591870	geckodriver	INFO	Listening on 127.0.0.1:55805
+1526338594920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.0tCDhLpoaLbn"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338595912	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526338600434	Marionette	INFO	Listening on port 55813
+1526338601544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[Child 7596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7596, Chrome_ChildThread] WARNING: pipe error: 109: fil[Child 12576, Chrome_ChildTh*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526440195496	geckodriver	INFO	geckodriver 0.20.1
+1526440195540	geckodriver	INFO	Listening on 127.0.0.1:56288
+1526440198450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.skRqkK0mOSdl"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526440200258	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526440206540	Marionette	INFO	Listening on port 56298
+1526440206840	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11276, Chrome_ChildThread] WARNI[Child 10384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10384, Chrome_[Parent 7972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526440234828	geckodriver	INFO	geckodriver 0.20.1
+1526440234842	geckodriver	INFO	Listening on 127.0.0.1:56342
+1526440237789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.gPbN9AH05PvY"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526440239044	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526440243392	Marionette	INFO	Listening on port 56350
+1526440243964	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10564, Chrome_C[Parent 440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526491935830	geckodriver	INFO	geckodriver 0.20.1
+1526491935861	geckodriver	INFO	Listening on 127.0.0.1:60113
+1526491938664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.qskDeX6eLcZh"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526491941340	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526491947898	Marionette	INFO	Listening on port 60121
+1526491948268	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12312, Chrome_C[Parent 12404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11780, Chrome_Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526492378382	geckodriver	INFO	geckodriver 0.20.1
+1526492378402	geckodriver	INFO	Listening on 127.0.0.1:60599
+1526492381376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.OmBuRtVVVz69"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526492382706	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526492386860	Marionette	INFO	Listening on port 60607
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526492387376	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9156, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526493914762	geckodriver	INFO	geckodriver 0.20.1
+1526493914778	geckodriver	INFO	Listening on 127.0.0.1:61160
+1526493917970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.P4UqWMpSos1C"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526493921688	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+console.error: 
+  Could not write session state file 
+  Message: Error: _initWorker called too early! Please read the session file from disk first.
+  Stack:
+    _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+  _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526493932958	Marionette	INFO	Listening on port 61168
+1526493934006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[Child 648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 648, Chr[Parent 9524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8384, Chrome_ChildThrea[Parent 9524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8976, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526493977964	geckodriver	INFO	geckodriver 0.20.1
+1526493977979	geckodriver	INFO	Listening on 127.0.0.1:61377
+1526493980937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.IsHRQyKLfUGr"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526493982564	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1526493987506	Marionette	INFO	Listening on port 61387
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526493988274	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1944, Chrome_Ch[Parent 5556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12920, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526499525970	geckodriver	INFO	geckodriver 0.20.1
+1526499526009	geckodriver	INFO	Listening on 127.0.0.1:62597
+1526499528812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.CrWz1F6uZNtz"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526499530552	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526499537398	Marionette	INFO	Listening on port 62605
+1526499538568	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3000, Chrome_ChildThread] WARNING: pipe error: 109
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526500287141	geckodriver	INFO	geckodriver 0.20.1
+1526500287153	geckodriver	INFO	Listening on 127.0.0.1:62834
+1526500290069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.vKUUuZvvH3Bu"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526500291078	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526500295234	Marionette	INFO	Listening on port 62842
+1526500295334	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10348, Chrome_ChildThread] *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526512298800	geckodriver	INFO	geckodriver 0.20.1
+1526512298816	geckodriver	INFO	Listening on 127.0.0.1:65153
+1526512301760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.wzSqqrzZJKxR"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512302910	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512306820	Marionette	INFO	Listening on port 65161
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512307190	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10940, Chrome_Ch[Parent 6632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8200, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526512323123	geckodriver	INFO	geckodriver 0.20.1
+1526512323126	geckodriver	INFO	Listening on 127.0.0.1:65191
+1526512326028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.cR5qpLIjZpgd"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512327078	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512330596	Marionette	INFO	Listening on port 65199
+1526512331338	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7208, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 7208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526512358494	geckodriver	INFO	geckodriver 0.20.1
+1526512358509	geckodriver	INFO	Listening on 127.0.0.1:65277
+1526512361445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.SIgwyLE8VdD4"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512362430	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1526512366108	Marionette	INFO	Listening on port 65285
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512366758	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4272, [Parent 2472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526512394424	geckodriver	INFO	geckodriver 0.20.1
+1526512394424	geckodriver	INFO	Listening on 127.0.0.1:65355
+1526512397341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.nJYARjXfdZX8"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512398436	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512402700	Marionette	INFO	Listening on port 65363
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512403202	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12040, Chrome_C[Child 7336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7336, Chrome_Chi[Child 12364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12364, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526512547457	geckodriver	INFO	geckodriver 0.20.1
+1526512547461	geckodriver	INFO	Listening on 127.0.0.1:65442
+1526512550383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.Tx9gvc4fJquc"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512551478	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512555266	Marionette	INFO	Listening on port 65450
+1526512555776	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526512579168	geckodriver	INFO	geckodriver 0.20.1
+1526512579172	geckodriver	INFO	Listening on 127.0.0.1:65517
+1526512582172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.HlRXbjOmCJKD"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512583164	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512586696	Marionette	INFO	Listening on port 65525
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512587512	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12760, Ch[Child 13100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13100, Chrome_Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526512614448	geckodriver	INFO	geckodriver 0.20.1
+1526512614448	geckodriver	INFO	Listening on 127.0.0.1:49240
+1526512617429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.jPX4KK84CkLc"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512618492	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526512622152	Marionette	INFO	Listening on port 49249
+1526512622804	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6560, Chrome_Chil[Parent 13000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11888, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526513795633	geckodriver	INFO	geckodriver 0.20.1
+1526513795655	geckodriver	INFO	Listening on 127.0.0.1:50049
+1526513798593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.tllSHTVLptmF"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526513800050	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526513804174	Marionette	INFO	Listening on port 50057
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526513804628	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526514182023	geckodriver	INFO	geckodriver 0.20.1
+1526514182037	geckodriver	INFO	Listening on 127.0.0.1:50208
+1526514185029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.ZBrbkMxUsxvs"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514186206	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514190166	Marionette	INFO	Listening on port 50216
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514190336	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chro[Child 4624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4624, Chrom[Child 11420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11420, Chrome_ChildThread]*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526514270629	geckodriver	INFO	geckodriver 0.20.1
+1526514270641	geckodriver	INFO	Listening on 127.0.0.1:50301
+1526514273577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.j6JyGurjLNLy"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514274996	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514279788	Marionette	INFO	Listening on port 50309
+1526514279818	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4868, Chrome_ChildThr[Parent 12660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1316*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526514369428	geckodriver	INFO	geckodriver 0.20.1
+1526514369443	geckodriver	INFO	Listening on 127.0.0.1:50477
+1526514372379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.YTrmrLVoKdD8"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514373520	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514377166	Marionette	INFO	Listening on port 50485
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514377950	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2280, Chrome_Ch[Parent 4340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526514402645	geckodriver	INFO	geckodriver 0.20.1
+1526514402657	geckodriver	INFO	Listening on 127.0.0.1:50601
+1526514405734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.3GdRhl1IJICj"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514406984	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514410986	Marionette	INFO	Listening on port 50609
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514411860	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 815[Parent 9488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11760, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526514440488	geckodriver	INFO	geckodriver 0.20.1
+1526514440500	geckodriver	INFO	Listening on 127.0.0.1:50725
+1526514443455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.tLKn2P3h7yin"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514444636	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514448758	Marionette	INFO	Listening on port 50733
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514449198	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11008, Chro[Child 684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 684, Chrome[Child 11872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11872*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526514564593	geckodriver	INFO	geckodriver 0.20.1
+1526514564608	geckodriver	INFO	Listening on 127.0.0.1:50869
+1526514567541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.ySjAlQtcQYhE"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514568656	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514572278	Marionette	INFO	Listening on port 50877
+1526514572796	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13176, Chrome_Child[Parent 5072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9652, Chrome_ChildThread] WAR*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526514747366	geckodriver	INFO	geckodriver 0.20.1
+1526514747378	geckodriver	INFO	Listening on 127.0.0.1:51041
+1526514750328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.RE0g2nYnYDfk"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514751348	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514755058	Marionette	INFO	Listening on port 51050
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514755608	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526514782094	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 9132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9132, Chrome_ChildThread] WARNING: pipe error: 109: f*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526514791304	geckodriver	INFO	geckodriver 0.20.1
+1526514791317	geckodriver	INFO	Listening on 127.0.0.1:51114
+1526514794306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.sPWo2rGW6gB1"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514795448	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514799926	Marionette	INFO	Listening on port 51122
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526514800318	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9588, Chrome_Ch[Parent 13068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3732, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526515063297	geckodriver	INFO	geckodriver 0.20.1
+1526515063317	geckodriver	INFO	Listening on 127.0.0.1:51319
+1526515066287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.eUhmHHkWkAJ7"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526515067466	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526515071168	Marionette	INFO	Listening on port 51327
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526515071784	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9464, Chrome_Chil[Parent 6520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2324, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526515147164	geckodriver	INFO	geckodriver 0.20.1
+1526515147177	geckodriver	INFO	Listening on 127.0.0.1:51527
+1526515150090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.xsydkG8F4KcV"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526515151238	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526515155048	Marionette	INFO	Listening on port 51535
+1526515155464	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/[Parent 1688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5412, Chrome_ChildThread] WARNING: pipe error: 109: fil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526515300234	geckodriver	INFO	geckodriver 0.20.1
+1526515300248	geckodriver	INFO	Listening on 127.0.0.1:51706
+1526515303207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.zE3dBMPpB5Zz"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526515304368	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526515308508	Marionette	INFO	Listening on port 51714
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526515308964	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13068, Chrome_ChildThread] WARNING: pipe error: 109: fi[Child 1328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1328, Chrome[Parent 9848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12544, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526516108041	geckodriver	INFO	geckodriver 0.20.1
+1526516108053	geckodriver	INFO	Listening on 127.0.0.1:51917
+1526516110989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.t57wrUqRUcTy"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526516112590	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526516116442	Marionette	INFO	Listening on port 51925
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526516116792	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9548, Chrome_Chi[Parent 5552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1235*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526516174549	geckodriver	INFO	geckodriver 0.20.1
+1526516174566	geckodriver	INFO	Listening on 127.0.0.1:51994
+1526516177544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.m8JXvVkKkXG8"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526516178692	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526516182350	Marionette	INFO	Listening on port 52002
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526516183254	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 58[Child 8380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8380, Chrome_Chil[Parent 8576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526516271048	geckodriver	INFO	geckodriver 0.20.1
+1526516271061	geckodriver	INFO	Listening on 127.0.0.1:52190
+1526516273998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.09KEngGNON60"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526516275162	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526516279080	Marionette	INFO	Listening on port 52198
+1526516279470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526516313842	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr[Child 11916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526516499042	geckodriver	INFO	geckodriver 0.20.1
+1526516499054	geckodriver	INFO	Listening on 127.0.0.1:52279
+1526516501989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.Q3cmAFVebHFs"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526516503048	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526516506904	Marionette	INFO	Listening on port 52287
+1526516507336	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1288, Chro[Child 6080, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 6080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6080, Chrome_Ch[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526524774987	geckodriver	INFO	geckodriver 0.20.1
+1526524775047	geckodriver	INFO	Listening on 127.0.0.1:54122
+1526524777928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.8nxeK1cKQ2On"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526524779162	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526524783734	Marionette	INFO	Listening on port 54130
+1526524784198	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6040, Chrome_Chil[Child 11388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11388, Chrome_*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526525612950	geckodriver	INFO	geckodriver 0.20.1
+1526525612975	geckodriver	INFO	Listening on 127.0.0.1:54883
+1526525615783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.xiA4OpSErymA"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526525619246	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526525625706	Marionette	INFO	Listening on port 54891
+1526525625818	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526525655554	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 2704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7172, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526526313901	geckodriver	INFO	geckodriver 0.20.1
+1526526313913	geckodriver	INFO	Listening on 127.0.0.1:55137
+1526526316931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.AmV6CDgAB9r8"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526526318178	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526526322322	Marionette	INFO	Listening on port 55145
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526526322754	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12796, Chrom[Parent 3124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2872, Chrome_*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526526375496	geckodriver	INFO	geckodriver 0.20.1
+1526526375512	geckodriver	INFO	Listening on 127.0.0.1:55203
+1526526378492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.P2symTleobuR"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526526379756	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526526384664	Marionette	INFO	Listening on port 55211
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526526384726	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11980, Chrome_ChildThread] WARNING: pipe error: 109: file z*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526527209798	geckodriver	INFO	geckodriver 0.20.1
+1526527209811	geckodriver	INFO	Listening on 127.0.0.1:55970
+1526527212764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.Cq14LY7AcbxS"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527213950	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527217686	Marionette	INFO	Listening on port 55979
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527218088	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1526527394857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.WRD3rJMUQSq2"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527396224	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527400546	Marionette	INFO	Listening on port 56103
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527400766	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6028, Chrome_ChildThread] WARNING: pipe1526527422956	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 1932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12456, Chrome_Chi[Parent 1932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10940, Chrome_Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526527438150	geckodriver	INFO	geckodriver 0.20.1
+1526527438150	geckodriver	INFO	Listening on 127.0.0.1:56849
+1526527441092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.t9D6pfx4tElI"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527442188	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527445930	Marionette	INFO	Listening on port 56857
+1526527446474	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526527469934	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 11796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5668, Chrome_ChildThread] WARNING: pipe error*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526527503074	geckodriver	INFO	geckodriver 0.20.1
+1526527503090	geckodriver	INFO	Listening on 127.0.0.1:57546
+1526527506083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.qVvnqapikJDf"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527507228	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527511272	Marionette	INFO	Listening on port 57554
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527511830	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 140, Chrome_ChildTh[Child 5292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 52*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526527558370	geckodriver	INFO	geckodriver 0.20.1
+1526527558386	geckodriver	INFO	Listening on 127.0.0.1:58307
+1526527561332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.GPJbJP6g6L6s"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527562500	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527566296	Marionette	INFO	Listening on port 58315
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527566958	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10436, Chr[Child 6396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6396, Chrome_Child[Parent 10388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11356, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526527683340	geckodriver	INFO	geckodriver 0.20.1
+1526527683340	geckodriver	INFO	Listening on 127.0.0.1:59065
+1526527686308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LEONAR~1\\AppData\\Local\\Temp\\rust_mozprofile.gEHRF5fYzocF"
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527687554	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527692186	Marionette	INFO	Listening on port 59073
+Unable to read VR Path Registry from C:\Users\Leonardo Sensiate\AppData\Local\openvr\openvrpaths.vrpath
+1526527692668	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s[Child 5316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5316, Chrome_ChildThread] WARNING: *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
