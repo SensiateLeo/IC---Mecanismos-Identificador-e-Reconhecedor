@@ -6,6 +6,7 @@
 ###### BIBLIOTECAS ######
 from selenium import webdriver
 from time import sleep
+import pandas as pd
 
 ###### CLASSES e FUNÇÕES ######
 #Declaração da classe de mecanismo Identificador e suas funções
@@ -71,86 +72,86 @@ class Identificador:
             arquivo.write(str(calendario.get_attribute('class')) + '|')
 
         if str(calendario.get_attribute('id')) != "":
-            arquivo.write(str(calendario.get_attribute('id'))+'|')
+            arquivo.write(str(calendario.get_attribute('id'))+',')
         else:
-            arquivo.write('None|')
+            arquivo.write('None,')
 
         if str(calendario.get_attribute('name')) != "":
-            arquivo.write(str(calendario.get_attribute('name'))+'|')
+            arquivo.write(str(calendario.get_attribute('name'))+',')
         else:
-            arquivo.write('None|')
+            arquivo.write('None,')
 
         if str(calendario.get_attribute('type')) != "":
-            arquivo.write(str(calendario.get_attribute('type'))+'|')
+            arquivo.write(str(calendario.get_attribute('type'))+',')
         else:
-            arquivo.write('None|')
+            arquivo.write('None,')
 
         if str(calendario.get_attribute('href')) != "":
-            arquivo.write(str(calendario.get_attribute('href'))+'|')
+            arquivo.write(str(calendario.get_attribute('href'))+',')
         else:
-            arquivo.write('None|')
+            arquivo.write('None,')
 
         if str(calendario.get_attribute('role')) != "":
-            arquivo.write(str(calendario.get_attribute('role'))+'|')
+            arquivo.write(str(calendario.get_attribute('role'))+',')
         else:
-            arquivo.write('None|')
+            arquivo.write('None,')
 
         if str(calendario.get_attribute('form')) != "":
-            arquivo.write(str(calendario.get_attribute('form'))+'|')
+            arquivo.write(str(calendario.get_attribute('form'))+',')
         else:
-            arquivo.write('None|')
+            arquivo.write('None,')
 
         #NO CASO DE INPUTS
         if str(calendario.get_attribute('checked')) != "":
-            arquivo.write(str(calendario.get_attribute('checked'))+'|')
+            arquivo.write(str(calendario.get_attribute('checked'))+',')
         else:
-            arquivo.write('None|')
+            arquivo.write('None,')
 
         if str(calendario.get_attribute('style')) != "":
-            arquivo.write(str(calendario.get_attribute('style'))+'|')
+            arquivo.write(str(calendario.get_attribute('style'))+',')
         else:
-            arquivo.write('None|')
+            arquivo.write('None,')
 
         if str(calendario.get_attribute('tabindex')) != "":
-            arquivo.write(str(calendario.get_attribute('tabindex'))+'|')
+            arquivo.write(str(calendario.get_attribute('tabindex'))+',')
         else:
-            arquivo.write('None|')
+            arquivo.write('None,')
 
         if str(calendario.get_attribute('text')) != "":
-            arquivo.write(str(calendario.get_attribute('text'))+'|')
+            arquivo.write(str(calendario.get_attribute('text'))+',')
         else:
-            arquivo.write('None|')
+            arquivo.write('None,')
 
         if str(calendario.get_attribute('color')) == "":
-            arquivo.write('None|')
+            arquivo.write('None,')
         else:
-            arquivo.write(str(calendario.get_attribute('color')) + '|')
+            arquivo.write(str(calendario.get_attribute('color')) + ',')
 
         tamanho = list(calendario.size.values())
         tam_x = tamanho[0]
         tam_y = tamanho[1]
-        arquivo.write(str(tam_x)+'|')
-        arquivo.write(str(tam_y) + '|')
+        arquivo.write(str(tam_x)+',')
+        arquivo.write(str(tam_y) + ',')
 
         loc = list(calendario.location.values())
         loc_x = loc[0]
         loc_y = loc[1]
-        arquivo.write(str(loc_y) + '|')
-        arquivo.write(str(loc_x) + '|')
+        arquivo.write(str(loc_y) + ',')
+        arquivo.write(str(loc_x) + ',')
 
     def propriedades_numericas(self, objeto, arquivo):
 
         tamanho = list(objeto.size.values())
         tam_x = tamanho[0]
         tam_y = tamanho[1]
-        arquivo.write(str(tam_x)+'|')
-        arquivo.write(str(tam_y) + '|')
+        arquivo.write(str(tam_x)+',')
+        arquivo.write(str(tam_y) + ',')
 
         loc = list(objeto.location.values())
         loc_x = loc[0]
         loc_y = loc[1]
-        arquivo.write(str(loc_y) + '|')
-        arquivo.write(str(loc_x) + '|')
+        arquivo.write(str(loc_y) + ',')
+        arquivo.write(str(loc_x) + ',')
 
         #lista de tags HTML: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
         divs = 0
@@ -207,23 +208,23 @@ class Identificador:
             if (str(i.tag_name) == "td"):
                 td = td + 1
 
-        arquivo.write(str(divs) + '|')
-        arquivo.write(str(li) + '|')
-        arquivo.write(str(p) + '|')
-        arquivo.write(str(col) + '|')
-        arquivo.write(str(table) + '|')
-        arquivo.write(str(tbody) + '|')
-        arquivo.write(str(td) + '|')
-        arquivo.write(str(th) + '|')
-        arquivo.write(str(thead) + '|')
-        arquivo.write(str(tfoot) + '|')
-        arquivo.write(str(tr) + '|')
-        arquivo.write(str(button) + '|')
-        arquivo.write(str(form) + '|')
-        arquivo.write(str(input) + '|')
-        arquivo.write(str(textarea) + '|')
-        arquivo.write(str(menu) + '|')
-        arquivo.write(str(menuitem) + '|')
+        arquivo.write(str(divs) + ',')
+        arquivo.write(str(li) + ',')
+        arquivo.write(str(p) + ',')
+        arquivo.write(str(col) + ',')
+        arquivo.write(str(table) + ',')
+        arquivo.write(str(tbody) + ',')
+        arquivo.write(str(td) + ',')
+        arquivo.write(str(th) + ',')
+        arquivo.write(str(thead) + ',')
+        arquivo.write(str(tfoot) + ',')
+        arquivo.write(str(tr) + ',')
+        arquivo.write(str(button) + ',')
+        arquivo.write(str(form) + ',')
+        arquivo.write(str(input) + ',')
+        arquivo.write(str(textarea) + ',')
+        arquivo.write(str(menu) + ',')
+        arquivo.write(str(menuitem) + ',')
 
     def encontra_filhos(self, caminho):
         driver = self.driver
@@ -280,9 +281,9 @@ xpath = str(input(PROMPT_2))
 tipo = str(input(PROMPT_3))
 
 #Guarda as informações recebidas na base
-base_dados.write(site+'|')
-base_dados.write(xpath+'|')
-base_dados.write(tipo+'|')
+base_dados.write(site+',')
+base_dados.write(xpath+',')
+base_dados.write(tipo+',')
 
 #Instancia o Webdriver e acessa a URL informada
 recon = webdriver.Firefox()
@@ -296,16 +297,16 @@ mecanismo.propriedades(xpath,base_dados)
 
 #Elemento pode receber dados do teclado?
 teclado = mecanismo.dispara_teclado(xpath)
-base_dados.write(str(teclado)+"|")
+base_dados.write(str(teclado)+",")
 
 #Elemento pode receber cliques?
 mouse = mecanismo.dispara_clique(xpath)
 mecanismo.tira_foco()
-base_dados.write(str(mouse)+"|")
+base_dados.write(str(mouse)+",")
 
 #Determina se o elemento possui nós filhos
 filhos = mecanismo.encontra_filhos(xpath)
-base_dados.write(str(filhos)+'|')
+base_dados.write(str(filhos)+',')
 
 #Caso existam nós filhos, armazena as propriedades numéricas desses filhos
 #Tamanho e posição, e tags "netas"
@@ -315,7 +316,7 @@ if (filhos > 0):
 #Caso o elemento não tenha nós filhos, é marcado como não tendo e o número de tags netas é colocado como 0
 else:
     for i in range(21):
-        base_dados.write(str(0)+'|')
+        base_dados.write(str(0)+',')
 
 #Analisa se o elemento é dinâmico através de uma interação com o mesmo
 #Ou seja, verifica se a interação insere novos nós na DOM dinamicamente
@@ -328,7 +329,7 @@ num_elem = mecanismo.encontra_elementos()
 #Pega- se a posição e tamanho e o número de tags dos nós netos, bisnetos, etc...
 if (num_elem > elem):
     dinamico = 1
-    base_dados.write(str(dinamico) + '|')
+    base_dados.write(str(dinamico) + ',')
     elementos = mecanismo.retorna_elementos()
     mecanismo.propriedades_numericas(elementos[elem], base_dados)
     num_elem = elem
@@ -336,13 +337,13 @@ if (num_elem > elem):
 #e seu número de nós netos é marcado como 0
 else:
     for i in range(22):
-        base_dados.write(str(0)+'|')
+        base_dados.write(str(0)+',')
 sleep(2)
 #Realiza um clique em um ponto não interagível da página, para remover o foco do elemento.
 mecanismo.tira_foco()
+#Encerra o mecanismo
+recon.quit()
 
 #Fecha o arquivo da base
 base_dados.close()
 
-#Encerra o mecanismo
-recon.quit()
