@@ -266,13 +266,13 @@ class Identificador:
 ###### INÍCIO DO CÓDIGO ######
 
 #Abre o arquivo da base de dados
-base_dados =  open('dados_calendars.txt', 'a+')
+base_dados =  open('dados.txt', 'a+')
 base_dados.write('\n')
 
 #Inicia pegando as informações do usuário
 #Processo é guiado!
 PROMPT_1 = "Digite o site a ser analisado: "  # PROMPT_1 é o site
-PROMPT_2 = "Digite o Xpath do widget a ser reconhecido: "   # PROMPT_2 é o caminho do widget
+PROMPT_2 = "Digite o Xpath (caminho) do widget a ser reconhecido: "   # PROMPT_2 é o caminho do widget
 PROMPT_3 = "Qual o tipo de widget será analisado? (Calendar, Menu, Dropdown, Time...): "
 
 #Recebe as entradas do usuário
@@ -284,6 +284,9 @@ tipo = str(input(PROMPT_3))
 base_dados.write(site+',')
 base_dados.write(xpath+',')
 base_dados.write(tipo+',')
+
+print("\nComponente Reconhecedor está executando...")
+print("Extraindo características do elemento ", xpath)
 
 #Instancia o Webdriver e acessa a URL informada
 recon = webdriver.Firefox()
@@ -346,4 +349,8 @@ recon.quit()
 
 #Fecha o arquivo da base
 base_dados.close()
+
+print("\n")
+print("Extração de características finalizada.")
+print("\nOs dados foram armazenado em dados.txt")
 
